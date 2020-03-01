@@ -13,9 +13,8 @@ void test_1(void)
 {
 	//test 1
 }
-
-//@add test 2 function
-void test_2(void)
+//@add test 3 function
+void test_3(void)
 {
-	//add by dev2
+	//add by dev3
 }
