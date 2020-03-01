@@ -18,3 +18,9 @@ void test_3(void)
 {
 	//add by dev3
 }
+
+//@add test 2 function
+void test_2(void)
+{
+	//add by dev1
+}
