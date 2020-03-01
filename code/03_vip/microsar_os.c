@@ -7,3 +7,9 @@ void main()
 	return;
 	
 }
+
+//@add test 1 function
+void test_1(void)
+{
+	//test 1
+}
